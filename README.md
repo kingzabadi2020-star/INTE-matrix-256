@@ -1,0 +1,2 @@
+# INTE-matrix-256
+Next.jsApp.tsxapp.jsonbabel.config.jstsconfig.jsonpackage.jsonREADME.mdeas.jsonobsoftware-logo.svgmockData.tsAppNavigator.tsxSplashScreen.tsxLoginScreen.tsxForgotPasswordScreen.tsxVerificationScreen.tsxDashboardScreen.tsxMarketsScreen.tsxWalletScreen.tsxBrokerScreen.tsxPortfolioBuilderScreen.tsxIntegrationsScreen.tsxPandoraScreen.tsxPlugScreen.tsx
